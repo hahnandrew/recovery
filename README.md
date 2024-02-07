@@ -8,7 +8,7 @@
 <h3 align="center">Ithaca Community Resource</h3>
 
   <p align="center">
-    Ithaca Community Recovery is a non-profit organization working to serve as a community resource for members of 12 Step and other recovery oriented groups. They do so by offering safe and affordable event and meeting spaces that can be used to facilitate the aforementioned meetings.
+    Ithaca Community Recovery is a non-profit organization working to serve as a community resource for members of 12 Step and other recovery oriented groups. They offer safe and affordable event and meeting spaces for recoverers of addiction.
     <br />    
   </p>
 </div>
