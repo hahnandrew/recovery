@@ -40,6 +40,11 @@ const Sidebar = ({ isOpen, toggle }) => {
               <p>Contacts</p>
             </Link>
           </li>
+          <li>
+            <Link href="/test" onClick={toggle}>
+              <p>Testing Endpoints</p>
+            </Link>
+          </li>
         </ul>
       </div>
     </>

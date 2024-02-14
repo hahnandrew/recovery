@@ -17,3 +17,15 @@ RUN apt install -y git vim wget && \
     . ~/.bashrc && \
     nvm install --lts && \
     npm install --global yarn
+
+# Install locales package
+RUN apt-get update && apt-get install -y locales
+
+# Uncomment en_US.UTF-8 for inclusion in generation
+RUN sed -i '/en_US.UTF-8/s/^# //g' /etc/locale.gen && \
+    locale-gen
+
+# Set the locale
+ENV LANG en_US.UTF-8 
+ENV LANGUAGE en_US:en
+ENV LC_ALL en_US.UTF-8

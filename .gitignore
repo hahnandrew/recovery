@@ -1,2 +1,4 @@
 frontend/app/webhook/*
 frontend/app/page.js
+frontend/app/components/button/button.jsx
+frontend/.env
