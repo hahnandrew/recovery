@@ -1,4 +1,4 @@
-import Navigation from "/workspaces/recovery/frontend/app/components/navigation/index.jsx";
+import Navigation from "./components/navigation/index.jsx";
 import "./globals.css";
 import { Inter } from "next/font/google";
 
