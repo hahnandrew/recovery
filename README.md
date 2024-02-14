@@ -63,7 +63,7 @@ This project aims to develop internal tooling and automation to streamline ICR's
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/cornellh4i/
+   git clone git@github.com:hahnandrew/recovery.git
    ```
 2. Start the client
    ```sh
