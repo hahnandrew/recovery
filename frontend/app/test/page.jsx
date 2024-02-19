@@ -11,7 +11,7 @@ function App() {
           'Content-Type': 'application/json',
         },
         body: JSON.stringify(
-          { "user_id": "4iN010DwUFVMMMO6BxIuC6XVMG93", "name": "Andrew Hahn"}
+          { "uid": "4iN010DwUFVMMMO6BxIuC6XVMG93", "name": "Joseph Ugarte"}
         ),
       });
 
